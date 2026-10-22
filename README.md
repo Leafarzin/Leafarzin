@@ -9,7 +9,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **PUCPR** e aqui 
 ## 🚀 Sobre Mim
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na **PUCPR**.
-- 💡 Disciplina por desenvolvimento web, programação orientada a objetos e engenharia de software.
+- 💡 Disciplinado e Focado por desenvolvimento web, programação orientada a objetos e engenharia de software.
 ---
 
 ## 🛠️ Tecnologias & Habilidades
