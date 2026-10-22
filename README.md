@@ -9,9 +9,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **PUCPR** e aqui 
 ## 🚀 Sobre Mim
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na **PUCPR**.
-- 💡 Apaixonado por desenvolvimento web, programação orientada a objetos e engenharia de software.
-- 📬 **E-mail:** [rafaelyuddi13@gmail.com](mailto:rafaelyuddi13@gmail.com) | [rafael.yuddi@pucpr.edu.br](mailto:rafael.yuddi@pucpr.edu.br)
-
+- 💡 Disciplina por desenvolvimento web, programação orientada a objetos e engenharia de software.
 ---
 
 ## 🛠️ Tecnologias & Habilidades
@@ -43,13 +41,19 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **PUCPR** e aqui 
 ## ✉️ Contatos & Redes Sociais
 
 <p align="left">
-  <a href="mailto:rafaelyuddi13@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <!-- Gmail: Abre a página Web do Gmail para enviar e-mail -->
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rafaelyuddi13@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Pessoal" />
   </a>
-  <a href="mailto:rafael.yuddi@pucpr.edu.br">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+
+  <!-- Outlook PUCPR: Link direto de envio no Webmail -->
+  <a href="https://outlook.office.com/mail/deeplink/compose?to=rafael.yuddi@pucpr.edu.br" target="_blank">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook PUCPR" />
   </a>
-  <a href="https://www.instagram.com/SEU-INSTAGRAM" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/rafael_yuddi" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
