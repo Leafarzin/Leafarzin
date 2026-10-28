@@ -2,7 +2,7 @@
 
 Olá! Seja bem-vindo(a) ao meu perfil do GitHub.
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na **PUCPR** e aqui apresento os conceitos que venho aplicando na prática através de projetos acadêmicos e pessoais.
+Sou estudante de **ADS** na **PUCPR** e aqui apresento os conceitos que venho aplicando na prática através de projetos acadêmicos e pessoais.
 
 ---
 
